@@ -37,7 +37,7 @@ number_1:
 	je  the_end
 	mov rdi, select1
 	call printf
-set_:
+
 	mov r13, 1
 	mov r14, 2
 loop_:
